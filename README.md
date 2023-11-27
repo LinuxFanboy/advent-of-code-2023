@@ -39,7 +39,7 @@ You can participate in Advent of Code 2023 and find the official challenges on t
 Happy coding, and may the code be with you!
 
 <div style="text-align: center;">
-	<img src="./other/image.jpg" alt="Advent of Code 2023" />
+	<img src="./other/image.png" alt="Advent of Code 2023" />
 </div>
 
 ---
