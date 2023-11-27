@@ -12,12 +12,13 @@ I'll be using a variety of programming languages throughout the event. Here's th
 - [x] Python
 - [x] JavaScript
 - [ ] Java
+- [x] C#
 - [ ] C++
 - [x] Ruby
 - [x] Go
 - [x] Rust
 - [x] Bash
-- [ ] C#
+- [ ] R
 
 Feel free to check out my solutions in your favorite programming language!
 
